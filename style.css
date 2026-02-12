@@ -1,0 +1,23 @@
+body {
+   background-color: aqua;
+}
+
+#Card {
+    height: 500px;
+    width: 400px;
+    background-color: red;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 40px auto;
+    }
+
+    img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    }
+
+i {
+  color: rgb(207, 192, 207);  
+  font-size: 25px;
+}    
